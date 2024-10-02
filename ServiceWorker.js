@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-KiemTraToan-1.0";
 const contentToCache = [
-    "Build/TEst.loader.js",
-    "Build/TEst.framework.js.unityweb",
-    "Build/TEst.data.unityweb",
-    "Build/TEst.wasm.unityweb",
+    "Build/Test.loader.js",
+    "Build/Test.framework.js.unityweb",
+    "Build/Test.data.unityweb",
+    "Build/Test.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
