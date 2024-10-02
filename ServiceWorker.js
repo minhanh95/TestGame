@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-KiemTraToan-1.0";
+const cacheName = "DefaultCompany-KiemTraToan-2.0";
 const contentToCache = [
     "Build/Test.loader.js",
     "Build/Test.framework.js.unityweb",
